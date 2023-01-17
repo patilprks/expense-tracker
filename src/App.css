@@ -1,0 +1,7 @@
+.App__heading{
+  display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: #fff;
+    text-shadow: 0 0 #ccc;
+}
